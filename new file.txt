@@ -1,3 +1,5 @@
 this is initial content
 -----------------------
 reverted and added new change
+
+Added feature B
